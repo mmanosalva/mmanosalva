@@ -7,9 +7,13 @@
 
 # Stats:
 
-<p style=![](https://github-readme-stats.vercel.app/api?username=mmanosalva&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=mmanosalva&theme=dark&hide_border=true)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmanosalva&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)> example text </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmanosalva&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmanosalva&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanosalva&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
 
 
