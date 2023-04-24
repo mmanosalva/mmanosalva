@@ -6,9 +6,9 @@
 [![](https://visitcount.itsvg.in/api?id=mmanosalva&icon=0&color=12)](https://visitcount.itsvg.in)
 
 # Stats:
-![](https://github-readme-stats.vercel.app/api?username=mmanosalva&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mmanosalva&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmanosalva&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+* ![](https://github-readme-stats.vercel.app/api?username=mmanosalva&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+* ![](https://github-readme-streak-stats.herokuapp.com/?user=mmanosalva&theme=dark&hide_border=true)<br/>
+* ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mmanosalva&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
