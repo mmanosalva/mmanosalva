@@ -6,14 +6,10 @@
 [![](https://visitcount.itsvg.in/api?id=mmanosalva&icon=0&color=12)](https://visitcount.itsvg.in)
 
 # Stats:
-
-<p align="center">
-
 ![Snake animation](https://github.com/mmanosalva/mmanosalva/blob/output/github-contribution-grid-snake.svg)
 
 
-   <br>
-  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmanosalva&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanosalva&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
